@@ -93,7 +93,7 @@ export const SiteMapDirectory: React.FC<SiteMapDirectoryProps> = ({
               Nounspot Location Sitemap
             </h1>
             <p className="text-sm text-zinc-600 mt-1 max-w-xl leading-relaxed">
-              Complete archival preservation of all {spots.length} authentic nounish places, things, and community installations worldwide.
+              Complete archival preservation of all {spots.length} authentic nounish places, things, and community installations worldwide. Preserved because the original nounspot.com map is broken and no longer maintained.
             </p>
           </div>
 

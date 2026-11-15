@@ -91,7 +91,7 @@ export const ExportModal: React.FC<ExportModalProps> = ({
           <div className="border-b border-zinc-200 pb-3">
             <h2 className="text-lg font-bold text-zinc-950">Download Preserved Dataset</h2>
             <p className="text-xs text-zinc-600 mt-1 leading-relaxed">
-              All {spots.length} verified Noun spots are preserved in multiple open formats for permanent archival, offline backup, and GIS analysis.
+              Preserved because the original https://www.nounspot.com/ map is broken and unmaintained. All {spots.length} verified Noun spots are archived in open standard formats.
             </p>
           </div>
 

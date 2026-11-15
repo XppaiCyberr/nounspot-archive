@@ -6,13 +6,16 @@ This is xpp way of preserving Nounspot.
 
 A standalone, zero-dependency preservation repository and interactive open-source atlas of authentic Nounish locations, installations, artworks, and community landmarks around the world.
 
+> Notice: The original website at https://www.nounspot.com/ is no longer maintained, and its interactive map is completely broken and non-functional due to expired Google Maps API quotas and billing restrictions. This repository exists to permanently archive and restore access to the global Nounish directory.
+
 ## Overview
 
-The original nounspot.com service became non-functional due to external dependency failures:
-1. The Google Maps JavaScript API key reached its quota and billing restrictions, breaking the interactive map client-side.
-2. The sitemap endpoint (sitemap.xml) was missing (HTTP 404), preventing search engines and archives from discovering location records.
-3. Third-party database reliance left the historical record of global community spots vulnerable to permanent loss.
-4. Bulk-imported non-Noun entries (such as Cursor workshop placeholders) diluted the authenticity of the directory.
+The original nounspot.com service is currently unmaintained and non-functional:
+1. The interactive map at https://www.nounspot.com/ is not working: the bundled Google Maps JavaScript API key reached its quota and billing limits, throwing client-side load errors and rendering a broken map.
+2. The upstream website is no longer maintained, leaving community data vulnerable to permanent deletion.
+3. The sitemap endpoint (sitemap.xml) returns HTTP 404, preventing search engines and archives from discovering location records.
+4. Backend dependence on a third-party Supabase instance created a single point of failure without public offline backups.
+5. Bulk-imported non-Noun entries (such as Cursor workshop placeholders) diluted the authenticity of the directory.
 
 This archive cleans, verifies, and permanently preserves the genuine Nouns ecosystem records in open data formats and packages them into a high-performance, space-maximizing web interface.
 
