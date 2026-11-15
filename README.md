@@ -2,6 +2,8 @@
 
 This is xpp way of preserving Nounspot.
 
+![Nounspot Archive Application Preview](preview.png)
+
 A standalone, zero-dependency preservation repository and interactive open-source atlas of authentic Nounish locations, installations, artworks, and community landmarks around the world.
 
 ## Overview
@@ -33,6 +35,7 @@ All datasets are stored in open standard formats under preserved_data/ and publi
 - preserved_data/sitemap.xml: Standard XML sitemap containing canonical URLs for every preserved location.
 - preserved_data/photos/: Full-resolution local copies of all community-submitted photos.
 - public/noggles.png: Official logo asset.
+- preview.png: Full application preview screenshot.
 
 ## Web Application Architecture
 
