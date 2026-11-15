@@ -11,11 +11,13 @@ A standalone, zero-dependency preservation repository and interactive open-sourc
 ## Overview
 
 The original nounspot.com service is currently unmaintained and non-functional:
-1. The interactive map at https://www.nounspot.com/ is not working: the bundled Google Maps JavaScript API key reached its quota and billing limits, throwing client-side load errors and rendering a broken map.
+1. The interactive map at https://www.nounspot.com/ is not working: the bundled Google Maps JavaScript API key reached its quota and billing limits, throwing client-side load errors and rendering a broken map ("Oops! Something went wrong").
 2. The upstream website is no longer maintained, leaving community data vulnerable to permanent deletion.
 3. The sitemap endpoint (sitemap.xml) returns HTTP 404, preventing search engines and archives from discovering location records.
 4. Backend dependence on a third-party Supabase instance created a single point of failure without public offline backups.
 5. Bulk-imported non-Noun entries (such as Cursor workshop placeholders) diluted the authenticity of the directory.
+
+![Original nounspot.com Broken State Preview](nounspot-preview.png)
 
 This archive cleans, verifies, and permanently preserves the genuine Nouns ecosystem records in open data formats and packages them into a high-performance, space-maximizing web interface.
 
@@ -39,6 +41,7 @@ All datasets are stored in open standard formats under preserved_data/ and publi
 - preserved_data/photos/: Full-resolution local copies of all community-submitted photos.
 - public/noggles.png: Official logo asset.
 - preview.png: Full application preview screenshot.
+- nounspot-preview.png: Preview screenshot of original nounspot.com showing the broken map state.
 
 ## Web Application Architecture
 
