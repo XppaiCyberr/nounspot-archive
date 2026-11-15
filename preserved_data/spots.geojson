@@ -15,18 +15,15 @@
         "name": "Bundaberg",
         "description": "Rum City",
         "category": "Places",
-        "address": "Hills St, Bundaberg East QLD 4670, Australia",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Hills St, Bundaberg East QLD 4670, Australia",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1792112752708-1000297638.jpg",
         "localPhotoPath": "photos/14eb5784-cf5b-4b6f-8529-a6750ffca558.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2026-10-16T01:05:53.654Z"
+        "createdAt": "2026-10-16T01:05:53.654Z",
+        "updatedAt": "2026-10-16T01:05:53.654Z"
       }
     },
     {
@@ -43,18 +40,15 @@
         "name": "Cat Noun Statue",
         "description": "NOUN KUCING statue. This 4 meter high nouns statue stands in the NOYOGIMBAL VIEW Tourist area as a permanent public work of art. Built on 7 x 6 meters of land using cement material so that it lasts a long time, and is equipped with a pixel-style NOUN-shaped seat. \r\nThis work is fully funded by NOUN DAO and made by Indonesian Nounish artist, Derry Gudha Dharma, as a symbol that creative ideas from the global community can grow into real works for the community",
         "category": "Places",
-        "address": "2F42+XM6, Sawah, Bangsri, Kec. Jepon, Kabupaten Blora, Jawa Tengah 58261, Indonesia",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "2F42+XM6, Sawah, Bangsri, Kec. Jepon, Kabupaten Blora, Jawa Tengah 58261, Indonesia",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1779089508404-IMG_6368.jpeg",
         "localPhotoPath": "photos/da740db3-2356-4261-bc68-2b53000600df.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2026-05-18T07:31:50.325Z"
+        "createdAt": "2026-05-18T07:31:50.325Z",
+        "updatedAt": "2026-05-18T07:31:50.325Z"
       }
     },
     {
@@ -68,21 +62,18 @@
       },
       "properties": {
         "id": "e6491127-a868-446f-9c18-2c9d849ec448",
-        "name": "Choco Vrbs \u2310\u25e8-\u25e8 \ud83c\udf6b -Venezuela ",
+        "name": "Choco Vrbs ⌐◨-◨ 🍫 -Venezuela ",
         "description": "Artisanal chocolate made with 100% Venezuelan cocoa",
         "category": "Things",
-        "address": "C54W+V95, C. Corralito, Caracas 1083, Miranda, Venezuela",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "C54W+V95, C. Corralito, Caracas 1083, Miranda, Venezuela",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1777597596148-WhatsApp_Image_2026-03-12_at_1.05.23_PM__1_.jpeg",
         "localPhotoPath": "photos/e6491127-a868-446f-9c18-2c9d849ec448.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2026-05-01T01:06:37.115Z"
+        "createdAt": "2026-05-01T01:06:37.115Z",
+        "updatedAt": "2026-05-01T01:06:37.115Z"
       }
     },
     {
@@ -99,18 +90,15 @@
         "name": "Dumaguete",
         "description": "Easy access to the sea, mountains, volacanoes, waterfalls and rivers",
         "category": "Places",
-        "address": "Dumaguete City, Negros Oriental, Filipinas",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Dumaguete City, Negros Oriental, Filipinas",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1771350054608-around-dumaguete-2.webp",
         "localPhotoPath": "photos/558801e2-5f3a-4fda-830d-ec5ed6fb5c47.webp",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2026-02-17T17:40:55.327Z"
+        "createdAt": "2026-02-17T17:40:55.327Z",
+        "updatedAt": "2026-02-17T17:40:55.327Z"
       }
     },
     {
@@ -125,20 +113,17 @@
       "properties": {
         "id": "d666a3b3-a58a-49b4-bae6-1b12cf2f54c6",
         "name": "cc0 Films",
-        "description": "Inspiring stories from Nouns and the onchain cc0 world \u2310\u25e8-\u25e8",
+        "description": "Inspiring stories from Nouns and the onchain cc0 world ⌐◨-◨",
         "category": "People",
-        "address": "Bicton WA 6157, Austr\u00e1lia",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Bicton WA 6157, Austrália",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1769148385382-cc0_films_logo.jpg",
         "localPhotoPath": "photos/d666a3b3-a58a-49b4-bae6-1b12cf2f54c6.jpg",
         "contactLink": "https://cc0films.com/",
-        "ownerUsername": null,
-        "createdAt": "2026-01-23T06:06:25.904Z"
+        "createdAt": "2026-01-23T06:06:25.904Z",
+        "updatedAt": "2026-01-23T06:06:25.904Z"
       }
     },
     {
@@ -153,20 +138,17 @@
       "properties": {
         "id": "f86585c9-cbf7-4619-b3c2-de5ff25f55bb",
         "name": "Noggle Bench ",
-        "description": "Function fun public \u2310\u25e8-\u25e8 bench ",
+        "description": "Function fun public ⌐◨-◨ bench ",
         "category": "Things",
-        "address": "8 Grange Road, Cineleisure Level 5, Level 6 &, Singapore 239695",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "8 Grange Road, Cineleisure Level 5, Level 6 &, Singapore 239695",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1766989403382-IMG_7893.jpeg",
         "localPhotoPath": "photos/f86585c9-cbf7-4619-b3c2-de5ff25f55bb.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-12-29T06:23:25.525Z"
+        "createdAt": "2025-12-29T06:23:25.525Z",
+        "updatedAt": "2025-12-29T06:23:25.525Z"
       }
     },
     {
@@ -181,20 +163,17 @@
       "properties": {
         "id": "03b38549-baca-4444-a28d-4fd813992290",
         "name": "Un Mural Amarillo",
-        "description": "A Yellow Mural is a large-scale collaborative mural created by four artists in Cali, Colombia. Spanning approximately 60 m\u00b2 (15 m wide \u00d7 4 m high), the piece explores themes of unconditional love, care, and solidarity, inspired by the relationship between people experiencing homelessness and their animal companions.\r\n\r\nThis mural is the result of a collaborative artistic process supported by decentralized cultural communities, and it stands as a public artwork focused on social impact and collective values.",
+        "description": "A Yellow Mural is a large-scale collaborative mural created by four artists in Cali, Colombia. Spanning approximately 60 m² (15 m wide × 4 m high), the piece explores themes of unconditional love, care, and solidarity, inspired by the relationship between people experiencing homelessness and their animal companions.\r\n\r\nThis mural is the result of a collaborative artistic process supported by decentralized cultural communities, and it stands as a public artwork focused on social impact and collective values.",
         "category": "Places",
-        "address": "Cl. 20 Nte. #2-20, El Piloto, Cali, Valle del Cauca, Colombia",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Cl. 20 Nte. #2-20, El Piloto, Cali, Valle del Cauca, Colombia",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1766434026096-Sin_t_tulo-4.jpg",
         "localPhotoPath": "photos/03b38549-baca-4444-a28d-4fd813992290.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-12-22T20:07:07.282Z"
+        "createdAt": "2025-12-22T20:07:07.282Z",
+        "updatedAt": "2025-12-22T20:07:07.282Z"
       }
     },
     {
@@ -211,18 +190,15 @@
         "name": "Rodrigo Nouns TV",
         "description": "Nouns TV",
         "category": "People",
-        "address": "Rio de Janeiro - RJ, Brasil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Rio de Janeiro - RJ, Brasil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1765661626881-WhatsApp_Image_2025-12-11_at_00.11.19.jpeg",
         "localPhotoPath": "photos/98442a01-5225-4a30-b38a-2c719b81fdd1.jpeg",
         "contactLink": "https://www.nounstv.com/",
-        "ownerUsername": null,
-        "createdAt": "2025-12-13T21:33:47.680Z"
+        "createdAt": "2025-12-13T21:33:47.680Z",
+        "updatedAt": "2025-12-13T21:33:47.680Z"
       }
     },
     {
@@ -239,18 +215,15 @@
         "name": "Robert G Rames",
         "description": "joined the Nouns in June 2025",
         "category": "People",
-        "address": "Distrito Regional da Capital, BC, Canad\u00e1",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Distrito Regional da Capital, BC, Canadá",
         "photoUrl": null,
         "localPhotoPath": null,
         "contactLink": "https://opensea.io/0x9a57ea4b1e64cc64b26e51291441ca1d9eec045a",
-        "ownerUsername": null,
-        "createdAt": "2025-12-10T17:19:22.482Z"
+        "createdAt": "2025-12-10T17:19:22.482Z",
+        "updatedAt": "2025-12-10T17:19:22.482Z"
       }
     },
     {
@@ -265,20 +238,17 @@
       "properties": {
         "id": "1799c50f-bd78-4b72-9997-63ad0688d866",
         "name": "Graffiti",
-        "description": "Art by Josu\u00e9 JCS in partnership with Nouns OTG.",
+        "description": "Art by Josué JCS in partnership with Nouns OTG.",
         "category": "Things",
-        "address": "XGGW+95V, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "XGGW+95V, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1765309350799-Screen_Shot_2025-12-09_at_14.42.13.png",
         "localPhotoPath": "photos/1799c50f-bd78-4b72-9997-63ad0688d866.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-12-09T19:42:32.620Z"
+        "createdAt": "2025-12-09T19:42:32.620Z",
+        "updatedAt": "2025-12-09T19:42:32.620Z"
       }
     },
     {
@@ -293,20 +263,17 @@
       "properties": {
         "id": "1f6a5c60-896f-4285-85d3-95a9367c6695",
         "name": "Graffiti",
-        "description": "Art by Josu\u00e9 JCS",
+        "description": "Art by Josué JCS",
         "category": "Things",
-        "address": "5J28+8GM, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "5J28+8GM, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1765308440084-Screen_Shot_2025-12-09_at_14.26.52.png",
         "localPhotoPath": "photos/1f6a5c60-896f-4285-85d3-95a9367c6695.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-12-09T19:27:21.405Z"
+        "createdAt": "2025-12-09T19:27:21.405Z",
+        "updatedAt": "2025-12-09T19:27:21.405Z"
       }
     },
     {
@@ -321,20 +288,17 @@
       "properties": {
         "id": "ebc7d8fd-17ef-4fc0-816f-ff8e83f6be81",
         "name": "Graffiti",
-        "description": "Art by Josu\u00e9 JCS",
+        "description": "Art by Josué JCS",
         "category": "Things",
-        "address": "5J28+8GM, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "5J28+8GM, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1765308365365-josue-brasil-2.jpeg",
         "localPhotoPath": "photos/ebc7d8fd-17ef-4fc0-816f-ff8e83f6be81.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-12-09T19:26:06.347Z"
+        "createdAt": "2025-12-09T19:26:06.347Z",
+        "updatedAt": "2025-12-09T19:26:06.347Z"
       }
     },
     {
@@ -349,20 +313,17 @@
       "properties": {
         "id": "8ff744a9-a64a-47d3-ac89-b9a3a3f4cd0d",
         "name": "Graffiti",
-        "description": "Art by Josu\u00e9 JCS, funded by Noggles DAO in partnership with Nouns in Rio.",
+        "description": "Art by Josué JCS, funded by Noggles DAO in partnership with Nouns in Rio.",
         "category": "Things",
-        "address": "5J28+8GP, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "5J28+8GP, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1765308107622-josue-brasil-1.jpeg",
         "localPhotoPath": "photos/8ff744a9-a64a-47d3-ac89-b9a3a3f4cd0d.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-12-09T19:21:49.126Z"
+        "createdAt": "2025-12-09T19:21:49.126Z",
+        "updatedAt": "2025-12-09T19:21:49.126Z"
       }
     },
     {
@@ -377,20 +338,17 @@
       "properties": {
         "id": "29e3ba38-c935-4066-a16b-f9a81436ec31",
         "name": "Graffiti",
-        "description": "Art by Josu\u00e9 JCS, funded by Noggles DAO in partnership with Nouns in Rio.",
+        "description": "Art by Josué JCS, funded by Noggles DAO in partnership with Nouns in Rio.",
         "category": "Things",
-        "address": "3QQ9+WCC, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "3QQ9+WCC, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1765307965126-maraca.jpeg",
         "localPhotoPath": "photos/29e3ba38-c935-4066-a16b-f9a81436ec31.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-12-09T19:19:26.615Z"
+        "createdAt": "2025-12-09T19:19:26.615Z",
+        "updatedAt": "2025-12-09T19:19:26.615Z"
       }
     },
     {
@@ -407,18 +365,15 @@
         "name": "Graffiti",
         "description": "Art by CH Monstro",
         "category": "Things",
-        "address": "4QW2+GVX, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "4QW2+GVX, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1765295172096-Screen_Shot_2025-12-09_at_10.31.54.png",
         "localPhotoPath": "photos/b9f58b0d-58d4-48fc-9bb7-07943afa8cd8.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-12-09T15:46:13.629Z"
+        "createdAt": "2025-12-09T15:46:13.629Z",
+        "updatedAt": "2025-12-09T15:46:13.629Z"
       }
     },
     {
@@ -435,18 +390,15 @@
         "name": "Cerro Negro",
         "description": "Volcano conquered by Sunny Pires, funded by Proposal 512.",
         "category": "Places",
-        "address": "Cerro Negro, Nicaragua",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Cerro Negro, Nicaragua",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/spots/1765294189713-sunny.jpg",
         "localPhotoPath": "photos/bc64884c-177a-4835-8671-7e9a341865ae.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-12-09T15:29:50.765Z"
+        "createdAt": "2025-12-09T15:29:50.765Z",
+        "updatedAt": "2025-12-09T15:29:50.765Z"
       }
     },
     {
@@ -463,16 +415,13 @@
         "name": "Bless Skateshop",
         "description": "",
         "category": "Places",
-        "address": "R. Ezequiel Freire, 692 - Santana, S\u00e3o Paulo - SP, 02037-004, Brazil",
         "community": [],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "R. Ezequiel Freire, 692 - Santana, São Paulo - SP, 02037-004, Brazil",
         "photoUrl": "https://www.nounspot.com/uploads/1765285225977-blessskateshop.jpg",
         "localPhotoPath": "photos/32e8732a-9544-4292-a83c-7c0a64cdfe5d.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-12-09T13:00:25.979Z"
+        "createdAt": "2025-12-09T13:00:25.979Z",
+        "updatedAt": "2025-12-09T13:00:25.979Z"
       }
     },
     {
@@ -489,18 +438,15 @@
         "name": "Index",
         "description": "",
         "category": "People",
-        "address": "Queens, NY, EUA",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Queens, NY, EUA",
         "photoUrl": null,
         "localPhotoPath": null,
         "contactLink": "https://farcaster.xyz/indexcard.eth",
-        "ownerUsername": null,
-        "createdAt": "2025-07-29T20:44:36.284Z"
+        "createdAt": "2025-07-29T20:44:36.284Z",
+        "updatedAt": "2025-12-09T12:30:48.261Z"
       }
     },
     {
@@ -517,18 +463,15 @@
         "name": "Person, Place or Thing",
         "description": "Sculpture by Dustin Yellin, funded by Proposal 48",
         "category": "Things",
-        "address": "0 Bond St, New York, NY 10012",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "0 Bond St, New York, NY 10012",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753488400784-IMG_8884.jpeg",
         "localPhotoPath": "photos/b858bf14-a433-4fac-af37-bcccaf843f5d.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-26T00:06:42.049Z"
+        "createdAt": "2025-07-26T00:06:42.049Z",
+        "updatedAt": "2025-12-09T12:30:51.756Z"
       }
     },
     {
@@ -545,18 +488,15 @@
         "name": "Nouns Curling Club",
         "description": "Funded by Proposal 615",
         "category": "Places",
-        "address": "555 Dundee Rd, Northbrook, IL 60062",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "555 Dundee Rd, Northbrook, IL 60062",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753291285447-curling-club.jpg",
         "localPhotoPath": "photos/c234514d-8905-4ab2-989c-791e62096b74.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-23T17:21:26.408Z"
+        "createdAt": "2025-07-23T17:21:26.408Z",
+        "updatedAt": "2025-12-09T12:30:48.536Z"
       }
     },
     {
@@ -573,18 +513,15 @@
         "name": "Stray Strong - Nouns feeder",
         "description": "This is a feeder with food and water to nourish the lil ones, the strays.\r\nIts located in a hawaian canoe base, and have daily interaction with locals and kids.",
         "category": "Things",
-        "address": "Av. Litor\u00e2nea, 3037 - Barra Nova, Saquarema - RJ, 28990-170, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Av. Litorânea, 3037 - Barra Nova, Saquarema - RJ, 28990-170, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753218761685-zzz.jpg",
         "localPhotoPath": "photos/0ce2c60a-b7dc-404e-8b6d-c8268cc92f30.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-22T21:12:44.110Z"
+        "createdAt": "2025-07-22T21:12:44.110Z",
+        "updatedAt": "2025-12-09T12:30:47.832Z"
       }
     },
     {
@@ -598,21 +535,18 @@
       },
       "properties": {
         "id": "f6414009-629a-4960-a473-542db6c48099",
-        "name": "Kabenuma.\u2310\u25e8-\u25e8",
+        "name": "Kabenuma.⌐◨-◨",
         "description": "Nounish Mural Art\r\n\r\nArtist\r\nhttps://x.com/marcot_no1\r\n\r\nProject\r\nhttps://kabenuma.numazu.world/artist-profile/\r\n",
         "category": "Things",
-        "address": "4V55+4F6, Numazu, Shizuoka, Japan",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "4V55+4F6, Numazu, Shizuoka, Japan",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753160852594-IMG_3490.jpeg",
         "localPhotoPath": "photos/f6414009-629a-4960-a473-542db6c48099.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-22T05:07:34.616Z"
+        "createdAt": "2025-07-22T05:07:34.616Z",
+        "updatedAt": "2025-12-09T12:30:48.399Z"
       }
     },
     {
@@ -629,18 +563,15 @@
         "name": "Noun Dragon Booth",
         "description": "\"An educational space that teaches art, cultivates the habit of saving, and introduces Nouns characters through piggy banks.\"\r\n",
         "category": "Places",
-        "address": "2F42+XM6, Sawah, Bangsri, Kec. Jepon, Kabupaten Blora, Jawa Tengah 58261, Indon\u00e9sia",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "2F42+XM6, Sawah, Bangsri, Kec. Jepon, Kabupaten Blora, Jawa Tengah 58261, Indonésia",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753142347066-1000020328.jpg",
         "localPhotoPath": "photos/c68c5cdc-da9f-446b-a9cd-e48c6fffc6ff.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-21T23:59:08.129Z"
+        "createdAt": "2025-07-21T23:59:08.129Z",
+        "updatedAt": "2025-12-09T12:30:48.118Z"
       }
     },
     {
@@ -657,18 +588,15 @@
         "name": "Nouns Deli",
         "description": "Funded by Proposal 254",
         "category": "Places",
-        "address": "248b Glenferrie Rd, Malvern VIC 3144, Australia",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "248b Glenferrie Rd, Malvern VIC 3144, Australia",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753138022239-1752546073490-nounsdeli.jpg",
         "localPhotoPath": "photos/0446e63a-574d-4f2e-b0fb-25251dca8d8b.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-21T22:47:03.745Z"
+        "createdAt": "2025-07-21T22:47:03.745Z",
+        "updatedAt": "2025-12-09T12:30:47.978Z"
       }
     },
     {
@@ -685,18 +613,15 @@
         "name": "lil trav",
         "description": "Running instagram.com/lilnouners",
         "category": "People",
-        "address": "New York, United States",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "New York, United States",
         "photoUrl": null,
         "localPhotoPath": null,
         "contactLink": "https://www.instagram.com/lilnouners",
-        "ownerUsername": null,
-        "createdAt": "2025-07-21T19:29:13.340Z"
+        "createdAt": "2025-07-21T19:29:13.340Z",
+        "updatedAt": "2025-12-09T12:30:47.529Z"
       }
     },
     {
@@ -713,18 +638,15 @@
         "name": "Rickyday",
         "description": "I can assist in all Nounish matters ",
         "category": "People",
-        "address": "Arma\u00e7\u00e3o dos B\u00fazios, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Armação dos Búzios, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753125012128-1752185473625-1000155276.jpg",
         "localPhotoPath": "photos/fae52724-8b09-4fea-8094-d0ae426a576f.jpg",
         "contactLink": "https://farcaster.xyz/rickyday",
-        "ownerUsername": null,
-        "createdAt": "2025-07-21T19:10:13.607Z"
+        "createdAt": "2025-07-21T19:10:13.607Z",
+        "updatedAt": "2025-12-09T12:30:53.554Z"
       }
     },
     {
@@ -741,18 +663,15 @@
         "name": "BigshotKlim",
         "description": "I make Nounish things for Nounish people",
         "category": "People",
-        "address": "Asheville, United States",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Asheville, United States",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753123213817-IMG_4524.jpeg",
         "localPhotoPath": "photos/4cd57a04-61d6-4a9e-949c-03b3f0853387.jpeg",
         "contactLink": "https://bigshottoyworks.my.canva.site/nounish-visions-by-nounworks",
-        "ownerUsername": null,
-        "createdAt": "2025-07-21T18:40:15.448Z"
+        "createdAt": "2025-07-21T18:40:15.448Z",
+        "updatedAt": "2025-12-09T12:30:53.414Z"
       }
     },
     {
@@ -769,19 +688,16 @@
         "name": "Gnarcia ",
         "description": "Noggles rail Itapetininga Skate Park ",
         "category": "Things",
-        "address": "R. Jacira Aires Holtz, 230 - Vila Barth, Itapetininga - SP, 18205-540, Brazil",
         "community": [
           "nouns",
           "gnars"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "R. Jacira Aires Holtz, 230 - Vila Barth, Itapetininga - SP, 18205-540, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753121729626-IMG_1102.jpeg",
         "localPhotoPath": "photos/fd485f76-69ef-468b-b22a-d34882addfd8.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-21T18:15:31.075Z"
+        "createdAt": "2025-07-21T18:15:31.075Z",
+        "updatedAt": "2025-12-10T14:52:31.959Z"
       }
     },
     {
@@ -798,18 +714,15 @@
         "name": "Grass Painting",
         "description": "Funded by Proposal 100",
         "category": "Things",
-        "address": "327 E Hoover Ave, Ann Arbor, MI 48104",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "327 E Hoover Ave, Ann Arbor, MI 48104",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753119504467-IMG_8812.jpeg",
         "localPhotoPath": "photos/8243a8e2-5bc5-450c-b298-60f7043d9d84.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-21T17:38:25.580Z"
+        "createdAt": "2025-07-21T17:38:25.580Z",
+        "updatedAt": "2025-12-09T12:30:53.273Z"
       }
     },
     {
@@ -826,18 +739,15 @@
         "name": "Mural in NYC",
         "description": "Art by @hugothedoode, created in 2022. Unfortunately, the mural is no longer there.",
         "category": "Things",
-        "address": "164 Thompson St, New York, NY 10012",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "164 Thompson St, New York, NY 10012",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753110712626-nyc-mural.jpeg",
         "localPhotoPath": "photos/b6d9f009-0e1c-44c1-9cdf-d53b2afbcf9c.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-21T15:11:53.884Z"
+        "createdAt": "2025-07-21T15:11:53.884Z",
+        "updatedAt": "2025-12-09T12:30:53.138Z"
       }
     },
     {
@@ -852,20 +762,17 @@
       "properties": {
         "id": "233e2928-67f6-46ec-be0a-54e7e41aca93",
         "name": "Nounish Art School",
-        "description": "1st Nounish Art School @eanounish\r\nProfessional classes and SBT certificates \u2014 but Nounish!\r\nProudly supported worldwide through our Mini App: https://www.art3hub.xyz",
+        "description": "1st Nounish Art School @eanounish\r\nProfessional classes and SBT certificates — but Nounish!\r\nProudly supported worldwide through our Mini App: https://www.art3hub.xyz",
         "category": "Places",
-        "address": "Las Magnolias 383, V\u00edctor Larco Herrera 13009, Peru",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Las Magnolias 383, Víctor Larco Herrera 13009, Peru",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1753075214296-photo-output.jpeg",
         "localPhotoPath": "photos/233e2928-67f6-46ec-be0a-54e7e41aca93.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-21T05:20:15.935Z"
+        "createdAt": "2025-07-21T05:20:15.935Z",
+        "updatedAt": "2025-12-09T12:30:52.995Z"
       }
     },
     {
@@ -882,18 +789,15 @@
         "name": "Amber ",
         "description": "Community activist, memeber",
         "category": "People",
-        "address": "Vinton, United States",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Vinton, United States",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752982297177-IMG_8410.jpeg",
         "localPhotoPath": "photos/b977f901-5b81-418d-8267-1afa659cc49d.jpeg",
         "contactLink": "https://warpcast.com/abuchtela",
-        "ownerUsername": null,
-        "createdAt": "2025-07-20T03:31:38.643Z"
+        "createdAt": "2025-07-20T03:31:38.643Z",
+        "updatedAt": "2025-12-09T12:30:52.856Z"
       }
     },
     {
@@ -910,18 +814,15 @@
         "name": "JP",
         "description": "building PlayDNA and Nouns House",
         "category": "People",
-        "address": "Rio de Janeiro, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Rio de Janeiro, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752955913448-jp.jpeg",
         "localPhotoPath": "photos/8ed6895c-4cae-42d4-b1eb-d623e008ad55.jpeg",
         "contactLink": "https://x.com/eusou_jp",
-        "ownerUsername": null,
-        "createdAt": "2025-07-19T20:11:54.578Z"
+        "createdAt": "2025-07-19T20:11:54.578Z",
+        "updatedAt": "2025-12-09T12:30:52.716Z"
       }
     },
     {
@@ -936,20 +837,17 @@
       "properties": {
         "id": "dac364f4-f3ee-443b-8b48-9031414f5256",
         "name": "Camp HQ",
-        "description": "\ud83d\udd25",
+        "description": "🔥",
         "category": "Places",
-        "address": "Stockholm, Sweden",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Stockholm, Sweden",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752912052143-7468F568-C50A-4EAE-9A4F-EDB0D8942D5D.jpeg",
         "localPhotoPath": "photos/dac364f4-f3ee-443b-8b48-9031414f5256.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-19T08:00:53.351Z"
+        "createdAt": "2025-07-19T08:00:53.351Z",
+        "updatedAt": "2025-12-09T12:30:52.036Z"
       }
     },
     {
@@ -966,18 +864,15 @@
         "name": "Gnome Sculpture",
         "description": "Funded by Proposal 757",
         "category": "Things",
-        "address": "10134 NM-104, Tucumcari, NM 88401",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "10134 NM-104, Tucumcari, NM 88401",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752546875449-gnome.jpeg",
         "localPhotoPath": "photos/4d69d3d5-b877-45ca-8ad0-d661fcc707b5.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T02:34:37.598Z"
+        "createdAt": "2025-07-15T02:34:37.598Z",
+        "updatedAt": "2025-12-09T12:30:51.619Z"
       }
     },
     {
@@ -994,18 +889,15 @@
         "name": "Karbon Kore",
         "description": "",
         "category": "Places",
-        "address": "D3-05-06, Tamarind Square, Persiaran Multimedia, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "D3-05-06, Tamarind Square, Persiaran Multimedia, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752546475101-karbonkore.jpeg",
         "localPhotoPath": "photos/c1d8956b-8341-47ec-83ab-6681c448b8fc.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T02:27:56.476Z"
+        "createdAt": "2025-07-15T02:27:56.476Z",
+        "updatedAt": "2025-12-09T12:30:51.482Z"
       }
     },
     {
@@ -1022,18 +914,15 @@
         "name": "Noun Coffee",
         "description": "Funded by Proposal 450",
         "category": "Places",
-        "address": "4065 Glencoe Ave, Marina Del Rey, CA 90292",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "4065 Glencoe Ave, Marina Del Rey, CA 90292",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752546221349-nouncoffee.jpg",
         "localPhotoPath": "photos/f9d13da8-5a30-4cdd-bc18-a2a697968cd0.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T02:23:42.723Z"
+        "createdAt": "2025-07-15T02:23:42.723Z",
+        "updatedAt": "2025-12-09T12:30:51.346Z"
       }
     },
     {
@@ -1050,18 +939,15 @@
         "name": " Installations at Liupian Mountain",
         "description": "Funded by Proposal 489",
         "category": "Things",
-        "address": "Liupian Mountain, Baiyun, Guangzhou, Guangdong Province, China, 510442",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Liupian Mountain, Baiyun, Guangzhou, Guangdong Province, China, 510442",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752545849005-Liupian_Mountain.jpg",
         "localPhotoPath": "photos/9116e8e0-0da5-43fc-a38e-fbea399bbaa9.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T02:17:30.111Z"
+        "createdAt": "2025-07-15T02:17:30.111Z",
+        "updatedAt": "2025-12-09T12:30:51.211Z"
       }
     },
     {
@@ -1078,18 +964,15 @@
         "name": "Pirate Ship Playground",
         "description": "Nouns funds the creation of a public Pirate Ship Playground through Proposal 488. Located on the ground floor of Qilin Plaza in Huangge Town, Nansha District, Guangzhou City, Guangdong Province.",
         "category": "Things",
-        "address": "Huangge, Nansha District, Guangzhou, Guangdong Province, China, 511455",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Huangge, Nansha District, Guangzhou, Guangdong Province, China, 511455",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752545336313-Ga3R6XTbcAAcTkH__1_.jpeg",
         "localPhotoPath": "photos/f9b271eb-c9b5-4916-9bb6-6c3ddd2c9962.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T02:08:57.721Z"
+        "createdAt": "2025-07-15T02:08:57.721Z",
+        "updatedAt": "2025-12-09T12:30:51.073Z"
       }
     },
     {
@@ -1106,19 +989,16 @@
         "name": "Nounstacle - Rusutsu Resort",
         "description": "Funded by Proposal 218",
         "category": "Things",
-        "address": "Japan, \u3012048-1711 Hokkaido, Abuta District, Rusutsu, Izumikawa, \uff11\uff13 13\u756a\u5730",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Japan, 〒048-1711 Hokkaido, Abuta District, Rusutsu, Izumikawa, １３ 13番地",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752544962243-Buy_Low__sell_High.___-_.jpg",
         "localPhotoPath": "photos/5b4fefcf-3813-4030-ab40-a30e7754e4d8.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T02:02:43.872Z"
+        "createdAt": "2025-07-15T02:02:43.872Z",
+        "updatedAt": "2025-12-09T12:30:51.896Z"
       }
     },
     {
@@ -1135,19 +1015,16 @@
         "name": "OC Ramp",
         "description": "Funded by Gnars",
         "category": "Things",
-        "address": "P593+73X, Santa Ana, CA",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "P593+73X, Santa Ana, CA",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752544783088-Screen_Shot_2025-07-14_at_22.56.04.png",
         "localPhotoPath": "photos/d65d1624-a937-4dd8-a9f2-a4fb406616d9.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:59:45.183Z"
+        "createdAt": "2025-07-15T01:59:45.183Z",
+        "updatedAt": "2025-12-09T12:30:50.933Z"
       }
     },
     {
@@ -1164,19 +1041,16 @@
         "name": "Nounstacle - Milano",
         "description": "Funded by Gnars",
         "category": "Things",
-        "address": "F5MR+CXJ, Milan, Metropolitan City of Milan, Italy",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "F5MR+CXJ, Milan, Metropolitan City of Milan, Italy",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752544326884-Screen_Shot_2025-07-14_at_22.51.52.png",
         "localPhotoPath": "photos/4aac9145-e1ce-4e18-a62d-5b95919efdb9.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:52:09.114Z"
+        "createdAt": "2025-07-15T01:52:09.114Z",
+        "updatedAt": "2025-12-09T12:30:52.580Z"
       }
     },
     {
@@ -1193,19 +1067,16 @@
         "name": "Nounstacle - Buenos Aires",
         "description": "Funded by Gnars",
         "category": "Things",
-        "address": "CJ85+8RH, Buenos Aires, Argentina",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "CJ85+8RH, Buenos Aires, Argentina",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752543808882-Screen_Shot_2025-07-14_at_22.43.16.png",
         "localPhotoPath": "photos/03255589-246e-4467-9420-67e6824b6a12.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:43:30.204Z"
+        "createdAt": "2025-07-15T01:43:30.204Z",
+        "updatedAt": "2025-12-09T12:30:52.170Z"
       }
     },
     {
@@ -1222,19 +1093,16 @@
         "name": "Nounstacle - London",
         "description": "Funded by Gnars",
         "category": "Things",
-        "address": "GQCV+7X4, London, UK",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "GQCV+7X4, London, UK",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752543734375-Screen_Shot_2025-07-14_at_22.41.59.png",
         "localPhotoPath": "photos/6e2d65e1-eb9a-4e19-b6e5-c194330c3b05.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:42:15.463Z"
+        "createdAt": "2025-07-15T01:42:15.463Z",
+        "updatedAt": "2025-12-09T12:30:52.443Z"
       }
     },
     {
@@ -1248,22 +1116,19 @@
       },
       "properties": {
         "id": "c3394652-07e6-4639-8456-ae75a72e324e",
-        "name": "Nounstacle - Medell\u00edn",
+        "name": "Nounstacle - Medellín",
         "description": "Funded by Gnars",
         "category": "Things",
-        "address": "6CV3+788, Medell\u00edn, Medellin, Antioquia, Colombia",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "6CV3+788, Medellín, Medellin, Antioquia, Colombia",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752543590471-Qme5iX2KMzwnJyaP6ThqTWVd7WoU197cjuDZ6zpcxMtDfJ.png",
         "localPhotoPath": "photos/c3394652-07e6-4639-8456-ae75a72e324e.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:39:52.009Z"
+        "createdAt": "2025-07-15T01:39:52.009Z",
+        "updatedAt": "2025-12-09T12:30:52.307Z"
       }
     },
     {
@@ -1280,19 +1145,16 @@
         "name": "Rusutsu Resort",
         "description": "Funded by Proposal 218",
         "category": "Places",
-        "address": "Japan, \u3012048-1711 Hokkaido, Abuta District, Rusutsu, Izumikawa, \uff11\uff13 13\u756a\u5730",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Japan, 〒048-1711 Hokkaido, Abuta District, Rusutsu, Izumikawa, １３ 13番地",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752543382882-GE1eGmzbIAApk0Q.jpeg",
         "localPhotoPath": "photos/3722a22b-37e9-4e17-88bd-2cfd009b8809.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:36:23.977Z"
+        "createdAt": "2025-07-15T01:36:23.977Z",
+        "updatedAt": "2025-12-09T12:30:50.084Z"
       }
     },
     {
@@ -1306,22 +1168,19 @@
       },
       "properties": {
         "id": "fe149f34-cb1b-4453-a72a-26bd54bd5603",
-        "name": "Nounstacle - Manhua\u00e7u",
+        "name": "Nounstacle - Manhuaçu",
         "description": "",
         "category": "Things",
-        "address": "QX2C+97R - Manhua\u00e7u, State of Minas Gerais, 36900-000, Brazil",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "QX2C+97R - Manhuaçu, State of Minas Gerais, 36900-000, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752543045924-Screen_Shot_2025-07-14_at_22.30.02.png",
         "localPhotoPath": "photos/fe149f34-cb1b-4453-a72a-26bd54bd5603.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:30:47.217Z"
+        "createdAt": "2025-07-15T01:30:47.217Z",
+        "updatedAt": "2025-12-09T12:30:48.674Z"
       }
     },
     {
@@ -1335,22 +1194,19 @@
       },
       "properties": {
         "id": "3c7a3b7d-ec96-4621-916d-24071f9dcf69",
-        "name": "Nounstacle - S\u00e3o Paulo",
+        "name": "Nounstacle - São Paulo",
         "description": "Funded by Gnars",
         "category": "Things",
-        "address": "G92G+98F, S\u00e3o Paulo - State of S\u00e3o Paulo, Brazil",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "G92G+98F, São Paulo - State of São Paulo, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752542947117-Screen_Shot_2025-07-14_at_22.28.27.png",
         "localPhotoPath": "photos/3c7a3b7d-ec96-4621-916d-24071f9dcf69.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:29:08.536Z"
+        "createdAt": "2025-07-15T01:29:08.536Z",
+        "updatedAt": "2025-12-09T12:30:48.815Z"
       }
     },
     {
@@ -1367,19 +1223,16 @@
         "name": "Nounstacle - Porto Alegre",
         "description": "Funded by Gnars",
         "category": "Things",
-        "address": "XRJC+V32, Porto Alegre - RS, Brazil",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "XRJC+V32, Porto Alegre - RS, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752542676440-Screen_Shot_2025-07-14_at_22.24.24.png",
         "localPhotoPath": "photos/7503a9b4-5d0b-4c13-aecf-e5141345642f.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:24:38.014Z"
+        "createdAt": "2025-07-15T01:24:38.014Z",
+        "updatedAt": "2025-12-09T12:30:49.241Z"
       }
     },
     {
@@ -1396,19 +1249,16 @@
         "name": "Nounstacle - Chicago",
         "description": "Funded by Gnars",
         "category": "Things",
-        "address": "X88P+4FM, Chicago, IL",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "X88P+4FM, Chicago, IL",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752542494321-Screen_Shot_2025-07-14_at_22.20.40.png",
         "localPhotoPath": "photos/c2f0be17-1d66-4143-9434-14380bb9f7a9.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:21:35.571Z"
+        "createdAt": "2025-07-15T01:21:35.571Z",
+        "updatedAt": "2025-12-09T12:30:49.101Z"
       }
     },
     {
@@ -1425,19 +1275,16 @@
         "name": "Nounstacle - Rio (AquaRio)",
         "description": "Funded by Gnars",
         "category": "Things",
-        "address": "4R55+82P, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "4R55+82P, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752542254945-Screen_Shot_2025-07-14_at_22.17.04.png",
         "localPhotoPath": "photos/b1e7177e-7ddd-45b6-980f-122cf795a8d4.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:17:36.738Z"
+        "createdAt": "2025-07-15T01:17:36.738Z",
+        "updatedAt": "2025-12-09T12:30:49.800Z"
       }
     },
     {
@@ -1454,19 +1301,16 @@
         "name": "Dreamland",
         "description": "Nounified by Proposal 621",
         "category": "Places",
-        "address": "6QQM+Q9C, Vista, CA",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "6QQM+Q9C, Vista, CA",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752541968385-Screen_Shot_2025-07-14_at_22.12.27.png",
         "localPhotoPath": "photos/e8ac2848-fc54-482d-acec-260ea2d7a699.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:12:49.937Z"
+        "createdAt": "2025-07-15T01:12:49.937Z",
+        "updatedAt": "2025-12-09T12:30:50.793Z"
       }
     },
     {
@@ -1483,19 +1327,16 @@
         "name": "Nounstacle - Silverado",
         "description": "Funded by Proposal 303",
         "category": "Things",
-        "address": "RQ7P+PG3, Long Beach, CA",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "RQ7P+PG3, Long Beach, CA",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752541640392-With_funding_from_Nouns_Proposal_303__Silverado_Skatepark_in_Long_Beach__California_was_revitali.jpg",
         "localPhotoPath": "photos/52291fe8-8436-4d6f-96f2-2a958707ed9b.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:07:21.395Z"
+        "createdAt": "2025-07-15T01:07:21.395Z",
+        "updatedAt": "2025-12-09T12:30:48.954Z"
       }
     },
     {
@@ -1512,19 +1353,16 @@
         "name": "Silverado Skatepark",
         "description": "Funded by Proposal 303",
         "category": "Places",
-        "address": "RQ7P+PG3, Long Beach, CA",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "RQ7P+PG3, Long Beach, CA",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752541504696-TSP_celebrated_the_Grand_Reopening_of_the__SilveradoSkatepark_in_Long_Beach__CA_this_past_weeken.jpg",
         "localPhotoPath": "photos/3c87c448-1a02-488c-addc-38e94d4ece70.jpg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-15T01:05:06.501Z"
+        "createdAt": "2025-07-15T01:05:06.501Z",
+        "updatedAt": "2025-12-09T12:30:50.655Z"
       }
     },
     {
@@ -1541,18 +1379,15 @@
         "name": "Nouns Breakers mural by Nouns Graffiti ",
         "description": "A graffiti mural made by Josue and Monstro from Nouns Graffiti for the Nouns Breakers team",
         "category": "Things",
-        "address": "R. dos Arcos, 35 - Centro, Rio de Janeiro - RJ, 20230-060, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "R. dos Arcos, 35 - Centro, Rio de Janeiro - RJ, 20230-060, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752512837828-IMG_8595.jpeg",
         "localPhotoPath": "photos/9e07f107-ca43-4e5a-af41-2d87fb0385a7.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-14T16:48:10.394Z"
+        "createdAt": "2025-07-14T16:48:10.394Z",
+        "updatedAt": "2025-12-09T12:30:50.221Z"
       }
     },
     {
@@ -1569,18 +1404,15 @@
         "name": "The Nouns Primary School (NPS - Kiyanga Rwoburunga)",
         "description": "Nouns Builds a School in Uganda: Nouns helps build a brighter future by building a new primary school in the Mitooma District of Uganda. It Started with a Big Idea\r\nDavin Oyesigye is a community leader and builder from Uganda. He proposed an ambitious plan: fund the construction of four brand-new classroom blocks, a new Administration block, Kitchen and Dinning Hall for Ndurumo Primary School, giving hundreds of kids a safe and inspiring place to learn the Uganda Primary Curriculum Courtesy of the Universal Primary Education program by the government of Uganda.\r\n\r\nUntil the concluded nouns feurbishment project, many of these students were studying in overcrowded, crumbling spaces: \r\nRead More at:- https://explore.nouns.world/nouns-builds-a-school-in-uganda/",
         "category": "Places",
-        "address": "G262+29W Kiyanga, Uganda",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "G262+29W Kiyanga, Uganda",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752496623696-IMG_4862.jpeg",
         "localPhotoPath": "photos/e6629432-08db-48a7-a299-19993799b12c.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-14T12:37:05.435Z"
+        "createdAt": "2025-07-14T12:37:05.435Z",
+        "updatedAt": "2025-12-09T12:30:49.659Z"
       }
     },
     {
@@ -1594,22 +1426,19 @@
       },
       "properties": {
         "id": "0285899c-c3ec-4cf4-8070-ae43959de39d",
-        "name": "Nounstacle - Rio (Pra\u00e7a XV)",
+        "name": "Nounstacle - Rio (Praça XV)",
         "description": "Funded by Gnars",
         "category": "Things",
-        "address": "3RWG+QJQ, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "community": [
           "Gnars",
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "3RWG+QJQ, Rio de Janeiro - State of Rio de Janeiro, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752202933110-Screen_Shot_2025-07-11_at_00.02.02.png",
         "localPhotoPath": "photos/0285899c-c3ec-4cf4-8070-ae43959de39d.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-11T03:02:14.528Z"
+        "createdAt": "2025-07-11T03:02:14.528Z",
+        "updatedAt": "2025-12-09T12:30:49.521Z"
       }
     },
     {
@@ -1626,18 +1455,15 @@
         "name": "Nouns House",
         "description": "Crypto hub for meetups, workshops, side events and more.",
         "category": "Places",
-        "address": "Rua Harmonia, 21 - Vila Madalena, S\u00e3o Paulo - SP, 05435-000, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Rua Harmonia, 21 - Vila Madalena, São Paulo - SP, 05435-000, Brazil",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752189757539-Screen_Shot_2025-07-10_at_11.34.47.png",
         "localPhotoPath": "photos/64f6aa2d-0712-4649-a3a2-46ddec12a2dc.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-10T23:22:39.110Z"
+        "createdAt": "2025-07-10T23:22:39.110Z",
+        "updatedAt": "2025-12-09T12:30:49.382Z"
       }
     },
     {
@@ -1651,21 +1477,18 @@
       },
       "properties": {
         "id": "77da4582-9d68-4297-b8b5-449599d212e6",
-        "name": "J \u2014 Comit\u00e9 ProNavidad Park",
+        "name": "J — Comité ProNavidad Park",
         "description": "",
         "category": "Things",
-        "address": "9a Calle C, Guatemala",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "9a Calle C, Guatemala",
         "photoUrl": "https://ldmpyktgqncwrkqnmcww.supabase.co/storage/v1/object/public/nounspot-uploads/1752173315613-Screen_Shot_2025-07-10_at_15.38.47.png",
         "localPhotoPath": "photos/77da4582-9d68-4297-b8b5-449599d212e6.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-10T18:48:37.474Z"
+        "createdAt": "2025-07-10T18:48:37.474Z",
+        "updatedAt": "2025-12-09T12:30:49.937Z"
       }
     },
     {
@@ -1682,18 +1505,15 @@
         "name": "HOPE Gallery",
         "description": "Nounified by Proposal 513",
         "category": "Places",
-        "address": "741 Dalton Ln, Austin, TX 78742",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "741 Dalton Ln, Austin, TX 78742",
         "photoUrl": "https://www.nounspot.com/uploads/1752157932252-Screen_Shot_2025-07-10_at_11.32.02.png",
         "localPhotoPath": "photos/4eb4bb4c-9859-4734-9c94-f3aca792e712.png",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-07-10T14:32:12.259Z"
+        "createdAt": "2025-07-10T14:32:12.259Z",
+        "updatedAt": "2025-12-09T12:30:50.504Z"
       }
     },
     {
@@ -1708,20 +1528,2567 @@
       "properties": {
         "id": "26a7135f-5c82-47a9-941b-144119351dec",
         "name": "Graffiti",
-        "description": "Art by Josu\u00e9 JCS, funded by Noggles DAO in partnership with Nouns in Rio.",
+        "description": "Art by Josué JCS, funded by Noggles DAO in partnership with Nouns in Rio.",
         "category": "Things",
-        "address": "Av. das Am\u00e9ricas, 16225 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-701, Brazil",
         "community": [
           "nouns"
         ],
-        "eventDate": null,
-        "eventTime": null,
-        "eventUrl": null,
+        "address": "Av. das Américas, 16225 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-701, Brazil",
         "photoUrl": "https://www.nounspot.com/uploads/1749966511497-graffiti-recreio-1.jpeg",
         "localPhotoPath": "photos/26a7135f-5c82-47a9-941b-144119351dec.jpeg",
         "contactLink": null,
-        "ownerUsername": null,
-        "createdAt": "2025-06-15T05:48:31.499Z"
+        "createdAt": "2025-06-15T05:48:31.499Z",
+        "updatedAt": "2025-12-09T12:30:50.360Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4791881,
+          -7.2995731
+        ]
+      },
+      "properties": {
+        "id": "ee7d2e8d-dd99-4361-a548-0f509bb3b078",
+        "name": "BitNouns Sticker - Salatiga #01",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_163156.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_163156.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:31:56.000Z",
+        "updatedAt": "2026-06-24T16:31:56.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4764233,
+          -7.2969581
+        ]
+      },
+      "properties": {
+        "id": "ba495d79-f132-44b3-a4a2-693c39fecbba",
+        "name": "BitNouns Sticker - Salatiga #02",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_162139.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_162139.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:21:39.000Z",
+        "updatedAt": "2026-06-24T16:21:39.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.476877,
+          -7.2963858
+        ]
+      },
+      "properties": {
+        "id": "0cf978d8-d239-42ac-ab1f-d46f0729f0af",
+        "name": "BitNouns Sticker - Salatiga #03",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_162116.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_162116.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:21:16.000Z",
+        "updatedAt": "2026-06-24T16:21:16.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.480407,
+          -7.2968236
+        ]
+      },
+      "properties": {
+        "id": "b81e2908-c84a-4879-a393-2078fa22da87",
+        "name": "BitNouns Sticker - Salatiga #04",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_160212.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_160212.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:02:12.000Z",
+        "updatedAt": "2026-06-24T16:02:12.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4791881,
+          -7.2995731
+        ]
+      },
+      "properties": {
+        "id": "a0acad8c-a6ba-45fe-a171-604f6e5d0a83",
+        "name": "BitNouns Sticker - Salatiga #05",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_163204.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_163204.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:32:04.000Z",
+        "updatedAt": "2026-06-24T16:32:04.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4791881,
+          -7.2995731
+        ]
+      },
+      "properties": {
+        "id": "ed4628f5-03be-4d56-aea8-6ee0dc4148a0",
+        "name": "BitNouns Sticker - Salatiga #06",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_163200.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_163200.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:32:00.000Z",
+        "updatedAt": "2026-06-24T16:32:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4829569,
+          -7.2981528
+        ]
+      },
+      "properties": {
+        "id": "192a999a-9da9-4315-ae8b-5eca4e26245f",
+        "name": "BitNouns Sticker - Salatiga #07",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_155616.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_155616.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T15:56:16.000Z",
+        "updatedAt": "2026-06-24T15:56:16.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.47976053,
+          -7.30007556
+        ]
+      },
+      "properties": {
+        "id": "009f746b-2785-4db6-acf5-141a6c0c0e9e",
+        "name": "BitNouns Sticker - Salatiga #08",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_192350.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_192350.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T19:23:50.000Z",
+        "updatedAt": "2026-06-24T19:23:50.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4791423,
+          -7.2994162
+        ]
+      },
+      "properties": {
+        "id": "10cf39ba-d33b-4799-a07d-4b8dd44c1a68",
+        "name": "BitNouns Sticker - Salatiga #09",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_163315.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_163315.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:33:15.000Z",
+        "updatedAt": "2026-06-24T16:33:15.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4823797,
+          -7.297929
+        ]
+      },
+      "properties": {
+        "id": "c78d699b-2587-46ab-a8c4-ba202b742a96",
+        "name": "BitNouns Sticker - Salatiga #10",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_155816.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_155816.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T15:58:16.000Z",
+        "updatedAt": "2026-06-24T15:58:16.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4830428,
+          -7.2988206
+        ]
+      },
+      "properties": {
+        "id": "872b6a5b-604c-48de-aa53-44785bb4ac37",
+        "name": "BitNouns Sticker - Salatiga #11",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_155504.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_155504.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T15:55:04.000Z",
+        "updatedAt": "2026-06-24T15:55:04.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4751441,
+          -7.294059
+        ]
+      },
+      "properties": {
+        "id": "d1ea5e89-ec81-43dc-a758-2ef4cdec642b",
+        "name": "BitNouns Sticker - Salatiga #12",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_161334.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_161334.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:13:34.000Z",
+        "updatedAt": "2026-06-24T16:13:34.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4776918,
+          -7.2952286
+        ]
+      },
+      "properties": {
+        "id": "b8001c9d-d743-4693-a0d2-c786dfaccd78",
+        "name": "BitNouns Sticker - Salatiga #13",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_160840.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_160840.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:08:40.000Z",
+        "updatedAt": "2026-06-24T16:08:40.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4787115,
+          -7.295288
+        ]
+      },
+      "properties": {
+        "id": "afdbd8d3-3ae8-4564-a6c7-47e94680f475",
+        "name": "BitNouns Sticker - Salatiga #14",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_160716.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_160716.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:07:16.000Z",
+        "updatedAt": "2026-06-24T16:07:16.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.478689,
+          -7.2953163
+        ]
+      },
+      "properties": {
+        "id": "300add22-f4ed-46af-a740-20f213e32b69",
+        "name": "BitNouns Sticker - Salatiga #15",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_160608.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_160608.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T16:06:08.000Z",
+        "updatedAt": "2026-06-24T16:06:08.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4824604,
+          -7.2993373
+        ]
+      },
+      "properties": {
+        "id": "8168c75f-0eb9-4e05-a056-a0bcaa6c36a7",
+        "name": "BitNouns Sticker - Salatiga #16",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_155411.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_155411.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T15:54:11.000Z",
+        "updatedAt": "2026-06-24T15:54:11.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4827434,
+          -7.2996116
+        ]
+      },
+      "properties": {
+        "id": "d03f3daf-8cd9-46f4-ad0e-bd1db70dc1eb",
+        "name": "BitNouns Sticker - Salatiga #17",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260624_155242.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260624_155242.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-24T15:52:43.000Z",
+        "updatedAt": "2026-06-24T15:52:43.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4767424,
+          -7.3055322
+        ]
+      },
+      "properties": {
+        "id": "6a636df2-063c-41a8-a2f0-c614959d8305",
+        "name": "BitNouns Sticker - Salatiga #18",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_194242.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_194242.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T19:42:44.000Z",
+        "updatedAt": "2026-06-15T19:42:44.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4760669,
+          -7.3034901
+        ]
+      },
+      "properties": {
+        "id": "2a1b5ee3-23fb-4735-a815-7e71fec5910e",
+        "name": "BitNouns Sticker - Salatiga #19",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_194024.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_194024.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T19:40:27.000Z",
+        "updatedAt": "2026-06-15T19:40:27.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4761497,
+          -7.3030875
+        ]
+      },
+      "properties": {
+        "id": "158faf42-49f0-4e46-abc0-1c8dbdae8135",
+        "name": "BitNouns Sticker - Salatiga #20",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_193903.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_193903.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T19:39:04.000Z",
+        "updatedAt": "2026-06-15T19:39:04.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4758539,
+          -7.3031048
+        ]
+      },
+      "properties": {
+        "id": "ed584871-4f3f-4f5a-ab56-7b77d0fa948b",
+        "name": "BitNouns Sticker - Salatiga #21",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_193740.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_193740.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T19:37:40.000Z",
+        "updatedAt": "2026-06-15T19:37:40.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4783259,
+          -7.3009546
+        ]
+      },
+      "properties": {
+        "id": "14f89519-8463-4611-a5fc-19bb9bf94d4c",
+        "name": "BitNouns Sticker - Salatiga #22",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_193000.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_193000.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T19:30:00.000Z",
+        "updatedAt": "2026-06-15T19:30:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4757276,
+          -7.2989099
+        ]
+      },
+      "properties": {
+        "id": "0ba8b260-92dc-49c1-ae7c-5d051a755515",
+        "name": "BitNouns Sticker - Salatiga #23",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260605_013828.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260605_013828.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-05T01:38:29.000Z",
+        "updatedAt": "2026-06-05T01:38:29.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4813433,
+          -7.300441
+        ]
+      },
+      "properties": {
+        "id": "6d18d26c-94e4-4fc4-a34a-7e8de0a99433",
+        "name": "BitNouns Sticker - Salatiga #24",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_201021.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_201021.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T20:10:22.000Z",
+        "updatedAt": "2026-06-15T20:10:22.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.476908,
+          -7.306244
+        ]
+      },
+      "properties": {
+        "id": "5445db27-d54f-4fac-a187-52847956779b",
+        "name": "BitNouns Sticker - Salatiga #25",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_194555.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_194555.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T19:45:56.000Z",
+        "updatedAt": "2026-06-15T19:45:56.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4766417,
+          -7.3058235
+        ]
+      },
+      "properties": {
+        "id": "23e70cbf-99ac-4a4a-a8b2-fc7d1ee0aa37",
+        "name": "BitNouns Sticker - Salatiga #26",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_194447.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_194447.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T19:44:48.000Z",
+        "updatedAt": "2026-06-15T19:44:48.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4766306,
+          -7.3053302
+        ]
+      },
+      "properties": {
+        "id": "841f855a-f08a-408d-adb4-07634ddec445",
+        "name": "BitNouns Sticker - Salatiga #27",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_194347.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_194347.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T19:43:47.000Z",
+        "updatedAt": "2026-06-15T19:43:47.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4761253,
+          -7.3043729
+        ]
+      },
+      "properties": {
+        "id": "69c05163-df37-43fc-a101-5aecfcdb2485",
+        "name": "BitNouns Sticker - Salatiga #28",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_194137.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_194137.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T19:41:39.000Z",
+        "updatedAt": "2026-06-15T19:41:39.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4825263,
+          -7.3000538
+        ]
+      },
+      "properties": {
+        "id": "f938507d-0e50-410f-ad16-686dd3d3bb5b",
+        "name": "BitNouns Sticker - Salatiga #29",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_200822.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_200822.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T20:08:23.000Z",
+        "updatedAt": "2026-06-15T20:08:23.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4825289,
+          -7.300044
+        ]
+      },
+      "properties": {
+        "id": "6ef7be1e-9484-419e-a2de-5a929990bf97",
+        "name": "BitNouns Sticker - Salatiga #30",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_200807.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_200807.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T20:08:09.000Z",
+        "updatedAt": "2026-06-15T20:08:09.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4772596,
+          -7.3065613
+        ]
+      },
+      "properties": {
+        "id": "08d92bc5-1edf-4fb9-a7a6-20edc6d1ec0e",
+        "name": "BitNouns Sticker - Salatiga #31",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260615_194719.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260615_194719.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-15T19:47:19.000Z",
+        "updatedAt": "2026-06-15T19:47:19.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4829503,
+          -7.2981429
+        ]
+      },
+      "properties": {
+        "id": "9c975763-8fb1-433e-a898-b0b803e2f9f0",
+        "name": "BitNouns Sticker - Salatiga #32",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260605_013325.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260605_013325.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-05T01:33:26.000Z",
+        "updatedAt": "2026-06-05T01:33:26.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4789386,
+          -7.2997745
+        ]
+      },
+      "properties": {
+        "id": "507a4f89-76ed-4e58-a081-2110c3a077f8",
+        "name": "BitNouns Sticker - Salatiga #33",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260604_090209.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260604_090209.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-04T09:02:09.000Z",
+        "updatedAt": "2026-06-04T09:02:09.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4793403,
+          -7.2983266
+        ]
+      },
+      "properties": {
+        "id": "9a16bb07-ddce-4fb1-a827-7b9b4712cf20",
+        "name": "BitNouns Sticker - Salatiga #34",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260603_140457.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260603_140457.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-03T14:04:57.000Z",
+        "updatedAt": "2026-06-03T14:04:57.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4759244,
+          -7.2966755
+        ]
+      },
+      "properties": {
+        "id": "d5cd21e8-5d05-4591-a259-91d16d609c1b",
+        "name": "BitNouns Sticker - Salatiga #35",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260603_140055.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260603_140055.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-03T14:00:55.000Z",
+        "updatedAt": "2026-06-03T14:00:55.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4756591,
+          -7.2989957
+        ]
+      },
+      "properties": {
+        "id": "65ab6ada-dbfa-472f-ae99-609c46137b86",
+        "name": "BitNouns Sticker - Salatiga #36",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260605_013838.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260605_013838.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-05T01:38:39.000Z",
+        "updatedAt": "2026-06-05T01:38:39.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4814746,
+          -7.2973635
+        ]
+      },
+      "properties": {
+        "id": "c7832834-25ed-49ca-a1bb-cd128e9362ea",
+        "name": "BitNouns Sticker - Salatiga #37",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260605_013505.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260605_013505.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-05T01:35:06.000Z",
+        "updatedAt": "2026-06-05T01:35:06.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4826816,
+          -7.2980378
+        ]
+      },
+      "properties": {
+        "id": "9a64a600-cde3-49ed-a785-cff8560fd46b",
+        "name": "BitNouns Sticker - Salatiga #38",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260605_013307.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260605_013307.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-05T01:33:08.000Z",
+        "updatedAt": "2026-06-05T01:33:08.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4789037,
+          -7.320461
+        ]
+      },
+      "properties": {
+        "id": "2327cec7-5e37-4f76-aa9b-b3473bb3b2b3",
+        "name": "BitNouns Sticker - Salatiga #39",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260530_083803.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260530_083803.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-30T08:38:03.000Z",
+        "updatedAt": "2026-05-30T08:38:03.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21443056,
+          -8.12744722
+        ]
+      },
+      "properties": {
+        "id": "17cf1d37-145c-48ff-a937-b523cd9072e8",
+        "name": "BitNouns Sticker - Blitar #01",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260605-020556-7cc48421-IMG_1244.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260605-020556-7cc48421-IMG_1244.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-04T19:04:22.000Z",
+        "updatedAt": "2026-06-04T19:04:22.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.220375,
+          -8.12654444
+        ]
+      },
+      "properties": {
+        "id": "ca3ff0b1-2095-4364-ad2a-31b1d318ab50",
+        "name": "BitNouns Sticker - Blitar #02",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260603-091604-899deebc-IMG_1235.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260603-091604-899deebc-IMG_1235.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-03T15:59:38.000Z",
+        "updatedAt": "2026-06-03T15:59:38.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.22103056,
+          -8.13185278
+        ]
+      },
+      "properties": {
+        "id": "6ce78d7a-abbb-4a5c-a57f-b0b38ef2e1fd",
+        "name": "BitNouns Sticker - Blitar #03",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260602-015647-d180c97e-IMG_1218.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260602-015647-d180c97e-IMG_1218.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-02T08:54:51.000Z",
+        "updatedAt": "2026-06-02T08:54:51.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.22028333,
+          -8.12821111
+        ]
+      },
+      "properties": {
+        "id": "4712bc39-22b0-4902-af6d-676b6b10f0db",
+        "name": "BitNouns Sticker - Blitar #04",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260601-065124-eafd44e0-IMG_1121.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260601-065124-eafd44e0-IMG_1121.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-01T13:50:30.000Z",
+        "updatedAt": "2026-06-01T13:50:30.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21641667,
+          -8.12968056
+        ]
+      },
+      "properties": {
+        "id": "95e665ba-3162-4b99-ab79-dc36b959067c",
+        "name": "BitNouns Sticker - Blitar #05",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260601-063928-197dab52-IMG_1120.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260601-063928-197dab52-IMG_1120.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-06-01T13:38:06.000Z",
+        "updatedAt": "2026-06-01T13:38:06.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69808889,
+          -7.89762222
+        ]
+      },
+      "properties": {
+        "id": "4d68c2fd-a5f2-40b7-a4d0-3770923fe103",
+        "name": "BitNouns Sticker - Malang #01",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Malang, Indonesia. Verified GPS proof photograph (20260528-161533-1ea9b6db-IMG_0986.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Singosari, Malang, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260528-161533-1ea9b6db-IMG_0986.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-28T23:11:56.000Z",
+        "updatedAt": "2026-05-28T23:11:56.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.54583056,
+          -7.13011944
+        ]
+      },
+      "properties": {
+        "id": "69aa27dc-fd54-492c-a184-7a5cae39417e",
+        "name": "BitNouns Sticker - Pamekasan #01",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Pamekasan, Indonesia. Verified GPS proof photograph (20260528-095453-93411b88-IMG_0981.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Galis, Pamekasan, Madura, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260528-095453-93411b88-IMG_0981.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-28T16:53:06.000Z",
+        "updatedAt": "2026-05-28T16:53:06.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.83287778,
+          -7.087575
+        ]
+      },
+      "properties": {
+        "id": "768542ac-1f48-49d4-ac59-083a25685a44",
+        "name": "BitNouns Sticker - Sumenep #01",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Sumenep, Indonesia. Verified GPS proof photograph (20260527-113554-b66c32f1-IMG_0902.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Saronggi, Sumenep, Madura, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260527-113554-b66c32f1-IMG_0902.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-27T18:33:40.000Z",
+        "updatedAt": "2026-05-27T18:33:40.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5018,
+          -7.18519722
+        ]
+      },
+      "properties": {
+        "id": "f755b517-991d-499e-a3da-f6b9641c9180",
+        "name": "BitNouns Sticker - Pamekasan #02",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Pamekasan, Indonesia. Verified GPS proof photograph (20260527-092618-26579df3-IMG_0899.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Pademawu, Pamekasan, Madura, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260527-092618-26579df3-IMG_0899.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-27T16:24:12.000Z",
+        "updatedAt": "2026-05-27T16:24:12.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79098611,
+          -7.12847778
+        ]
+      },
+      "properties": {
+        "id": "4829c464-324a-48a5-a525-910e966bb480",
+        "name": "BitNouns Sticker - Bangkalan #01",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Bangkalan, Indonesia. Verified GPS proof photograph (20260527-064937-e99fb501-IMG_0880.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Labang, Bangkalan, Madura, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260527-064937-e99fb501-IMG_0880.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-27T13:41:56.000Z",
+        "updatedAt": "2026-05-27T13:41:56.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79064167,
+          -7.12876389
+        ]
+      },
+      "properties": {
+        "id": "9b70c815-bea1-4e5c-a91d-c91be80c6957",
+        "name": "BitNouns Sticker - Bangkalan #02",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Bangkalan, Indonesia. Verified GPS proof photograph (20260527-060647-51288c29-IMG_0876.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Labang, Bangkalan, Madura, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260527-060647-51288c29-IMG_0876.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-27T13:02:29.000Z",
+        "updatedAt": "2026-05-27T13:02:29.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4828595,
+          -7.299574
+        ]
+      },
+      "properties": {
+        "id": "66b97750-26b4-4e48-a268-151a322c412b",
+        "name": "BitNouns Sticker - Salatiga #40",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260526_040407.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260526_040407.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-26T04:04:08.000Z",
+        "updatedAt": "2026-05-26T04:04:08.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4968023,
+          -7.3227841
+        ]
+      },
+      "properties": {
+        "id": "fc57367b-385d-4f35-afd0-68c14d4580cb",
+        "name": "BitNouns Sticker - Salatiga #41",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260526_035723.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260526_035723.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-26T03:57:23.000Z",
+        "updatedAt": "2026-05-26T03:57:23.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5001111,
+          -7.3258017
+        ]
+      },
+      "properties": {
+        "id": "b4ea884d-9eda-4abb-a6ef-c2aab7527e20",
+        "name": "BitNouns Sticker - Salatiga #42",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260526_035517.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260526_035517.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-26T03:55:18.000Z",
+        "updatedAt": "2026-05-26T03:55:18.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5003526,
+          -7.3259879
+        ]
+      },
+      "properties": {
+        "id": "fb68041e-94af-4ba4-a9c2-3bf8ae3e2f82",
+        "name": "BitNouns Sticker - Salatiga #43",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260526_035408.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260526_035408.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-26T03:54:08.000Z",
+        "updatedAt": "2026-05-26T03:54:08.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5003172,
+          -7.3259775
+        ]
+      },
+      "properties": {
+        "id": "d5050c02-ea9c-4778-a54c-b9088ca81eea",
+        "name": "BitNouns Sticker - Salatiga #44",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260526_035359.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260526_035359.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-26T03:53:59.000Z",
+        "updatedAt": "2026-05-26T03:53:59.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5002555,
+          -7.3259022
+        ]
+      },
+      "properties": {
+        "id": "e01d7d66-1995-472d-a5a4-e644ec74c6b4",
+        "name": "BitNouns Sticker - Salatiga #45",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260526_035117.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260526_035117.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-26T03:51:17.000Z",
+        "updatedAt": "2026-05-26T03:51:17.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.50013146,
+          -7.33089674
+        ]
+      },
+      "properties": {
+        "id": "ed29229a-b26a-42e4-a3ff-b78be2eecb59",
+        "name": "BitNouns Sticker - Salatiga #46",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260526_034514.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260526_034514.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-26T03:45:15.000Z",
+        "updatedAt": "2026-05-26T03:45:15.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5007333,
+          -7.3293401
+        ]
+      },
+      "properties": {
+        "id": "5d2bf38c-d18e-4e6e-a3a8-d9c1534077dd",
+        "name": "BitNouns Sticker - Salatiga #47",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260526_034237.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260526_034237.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-26T03:42:37.000Z",
+        "updatedAt": "2026-05-26T03:42:37.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4777864,
+          -7.3141327
+        ]
+      },
+      "properties": {
+        "id": "9d52d942-3695-4188-a1aa-c69e39a7bc85",
+        "name": "BitNouns Sticker - Salatiga #48",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (IMG_20260526_032633.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/IMG_20260526_032633.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-26T03:26:34.000Z",
+        "updatedAt": "2026-05-26T03:26:34.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.47571,
+          -7.300823
+        ]
+      },
+      "properties": {
+        "id": "d90edc5e-d4b4-48b2-a2b2-8be3c5457c8c",
+        "name": "BitNouns Sticker - Salatiga #49",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092000.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092000.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:20:00.000Z",
+        "updatedAt": "2026-05-25T09:20:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5019935,
+          -7.3298993
+        ]
+      },
+      "properties": {
+        "id": "c0ba87bc-4473-4ed2-a217-fca9dd87136b",
+        "name": "BitNouns Sticker - Salatiga #50",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_082157.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_082157.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T08:21:57.000Z",
+        "updatedAt": "2026-05-25T08:21:57.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4757026,
+          -7.3021794
+        ]
+      },
+      "properties": {
+        "id": "6443f4b9-9075-4fd2-a44d-671f79882b68",
+        "name": "BitNouns Sticker - Salatiga #51",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092555.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092555.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:25:55.000Z",
+        "updatedAt": "2026-05-25T09:25:55.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4755501,
+          -7.3022367
+        ]
+      },
+      "properties": {
+        "id": "b2ab5f3b-ca1e-49d7-ad23-41004af2cebb",
+        "name": "BitNouns Sticker - Salatiga #52",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092512.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092512.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:25:12.000Z",
+        "updatedAt": "2026-05-25T09:25:12.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4756184,
+          -7.3014925
+        ]
+      },
+      "properties": {
+        "id": "d1c9b233-50ef-40e5-abac-3366c12dec81",
+        "name": "BitNouns Sticker - Salatiga #53",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092203.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092203.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:22:03.000Z",
+        "updatedAt": "2026-05-25T09:22:03.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4760516,
+          -7.3015335
+        ]
+      },
+      "properties": {
+        "id": "b11612ab-3249-4b30-ab91-dd734c2111d5",
+        "name": "BitNouns Sticker - Salatiga #54",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092106.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092106.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:21:06.000Z",
+        "updatedAt": "2026-05-25T09:21:06.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4759655,
+          -7.3004422
+        ]
+      },
+      "properties": {
+        "id": "c08bd434-5079-44e8-a8cc-e6dade1cde91",
+        "name": "BitNouns Sticker - Salatiga #55",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_091857.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_091857.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:18:57.000Z",
+        "updatedAt": "2026-05-25T09:18:57.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4757448,
+          -7.300922
+        ]
+      },
+      "properties": {
+        "id": "48007426-db82-4cd1-a994-86d1a7ab5993",
+        "name": "BitNouns Sticker - Salatiga #56",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092919.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092919.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:29:19.000Z",
+        "updatedAt": "2026-05-25T09:29:19.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4757448,
+          -7.300922
+        ]
+      },
+      "properties": {
+        "id": "b47196ea-1b16-440f-a3b3-f5fab7cbebd1",
+        "name": "BitNouns Sticker - Salatiga #57",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092918.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092918.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:29:18.000Z",
+        "updatedAt": "2026-05-25T09:29:18.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4756749,
+          -7.3021081
+        ]
+      },
+      "properties": {
+        "id": "bfb48bde-22b6-4995-ac57-8bd41baaa298",
+        "name": "BitNouns Sticker - Salatiga #58",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092749.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092749.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:27:49.000Z",
+        "updatedAt": "2026-05-25T09:27:49.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.475946,
+          -7.3021797
+        ]
+      },
+      "properties": {
+        "id": "99b203de-7259-47f7-ae7f-4517f9136748",
+        "name": "BitNouns Sticker - Salatiga #59",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092709.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092709.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:27:09.000Z",
+        "updatedAt": "2026-05-25T09:27:09.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4757162,
+          -7.302186
+        ]
+      },
+      "properties": {
+        "id": "0c2ec43d-d145-42b7-aaec-11ab48fe32a3",
+        "name": "BitNouns Sticker - Salatiga #60",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092300.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092300.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:23:00.000Z",
+        "updatedAt": "2026-05-25T09:23:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4777612,
+          -7.3006767
+        ]
+      },
+      "properties": {
+        "id": "00262e36-6f19-4e4b-a633-a834cf12f91b",
+        "name": "BitNouns Sticker - Salatiga #61",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_093551.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_093551.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:35:51.000Z",
+        "updatedAt": "2026-05-25T09:35:51.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4759362,
+          -7.3004494
+        ]
+      },
+      "properties": {
+        "id": "c92883d8-c6f0-4178-aaa2-cc054e5a70d9",
+        "name": "BitNouns Sticker - Salatiga #62",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_093149.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_093149.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:31:49.000Z",
+        "updatedAt": "2026-05-25T09:31:49.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4757303,
+          -7.3008433
+        ]
+      },
+      "properties": {
+        "id": "15c1a754-094b-4340-aea1-430d4b82b049",
+        "name": "BitNouns Sticker - Salatiga #63",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_093040.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_093040.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:30:40.000Z",
+        "updatedAt": "2026-05-25T09:30:40.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4758602,
+          -7.3010475
+        ]
+      },
+      "properties": {
+        "id": "32641824-a111-44fc-a633-1782e5cc375a",
+        "name": "BitNouns Sticker - Salatiga #64",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_092955.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_092955.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:29:55.000Z",
+        "updatedAt": "2026-05-25T09:29:55.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4759356,
+          -7.3004469
+        ]
+      },
+      "properties": {
+        "id": "5425ad02-1bf5-4956-a313-bd074ee9bf20",
+        "name": "BitNouns Sticker - Salatiga #65",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (MVIMG_20260525_091659.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/MVIMG_20260525_091659.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-25T09:16:59.000Z",
+        "updatedAt": "2026-05-25T09:16:59.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3133874,
+          -7.3701838
+        ]
+      },
+      "properties": {
+        "id": "579b9d15-aaf7-4347-a3ac-ce4d84905a5b",
+        "name": "BitNouns Sticker - Salatiga #66",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (20260522-023709-44af2e21-MVIMG_20260520_101327.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Grabag, Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260522-023709-44af2e21-MVIMG_20260520_101327.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-20T10:13:27.000Z",
+        "updatedAt": "2026-05-20T10:13:27.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39530852,
+          -7.36627919
+        ]
+      },
+      "properties": {
+        "id": "38d77860-10c5-4d2a-a10a-f35f035bfcb7",
+        "name": "BitNouns Sticker - Salatiga #67",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (20260522-023637-3f1169e0-MVIMG_20260520_094638.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Ngablak, Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260522-023637-3f1169e0-MVIMG_20260520_094638.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-20T09:46:38.000Z",
+        "updatedAt": "2026-05-20T09:46:38.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39452444,
+          -7.3608507
+        ]
+      },
+      "properties": {
+        "id": "ced52875-e66f-49f3-a27a-1bc57880fed5",
+        "name": "BitNouns Sticker - Salatiga #68",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (20260522-023614-d881ba3d-MVIMG_20260520_095106.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Ngablak, Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260522-023614-d881ba3d-MVIMG_20260520_095106.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-20T09:51:06.000Z",
+        "updatedAt": "2026-05-20T09:51:06.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4693449,
+          -7.3814548
+        ]
+      },
+      "properties": {
+        "id": "cb477760-d25c-402b-a4b3-8ad9e73e4ced",
+        "name": "BitNouns Sticker - Salatiga #69",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (20260522-023538-72926694-MVIMG_20260520_090631.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Getasan, Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260522-023538-72926694-MVIMG_20260520_090631.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-20T09:06:31.000Z",
+        "updatedAt": "2026-05-20T09:06:31.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39813931,
+          -7.36175193
+        ]
+      },
+      "properties": {
+        "id": "a3a86a4e-1b63-44d1-a237-9175e1a433e7",
+        "name": "BitNouns Sticker - Salatiga #70",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (20260520-234137-3a1894ec-MVIMG_20260520_100040.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Ngablak, Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260520-234137-3a1894ec-MVIMG_20260520_100040.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-20T10:00:40.000Z",
+        "updatedAt": "2026-05-20T10:00:40.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3133874,
+          -7.3701838
+        ]
+      },
+      "properties": {
+        "id": "b3a07c32-ec05-4806-a514-c8bac5270226",
+        "name": "BitNouns Sticker - Salatiga #71",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Salatiga, Indonesia. Verified GPS proof photograph (20260520-232903-0ccc452d-MVIMG_20260520_101319.jpg) funded by BitNouns DAO Proposal #20 and captured with Xiaomi POCO F7 Pro.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Grabag, Salatiga, Jawa Tengah, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260520-232903-0ccc452d-MVIMG_20260520_101319.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-20T10:13:19.000Z",
+        "updatedAt": "2026-05-20T10:13:19.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.06239444,
+          -8.060825
+        ]
+      },
+      "properties": {
+        "id": "38e324b3-e36c-496b-aeb7-1e0e7bf06b70",
+        "name": "BitNouns Sticker - Blitar #06",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260519-105619-37ed962a-IMG_0734.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Srengat, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260519-105619-37ed962a-IMG_0734.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-19T17:24:26.000Z",
+        "updatedAt": "2026-05-19T17:24:26.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.06235556,
+          -8.06101944
+        ]
+      },
+      "properties": {
+        "id": "eed64476-2eae-4e24-a03a-9621c1e5e851",
+        "name": "BitNouns Sticker - Blitar #07",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260519-050730-fc976ef8-IMG_0719.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Srengat, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260519-050730-fc976ef8-IMG_0719.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-19T11:59:07.000Z",
+        "updatedAt": "2026-05-19T11:59:07.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.06256111,
+          -8.06126111
+        ]
+      },
+      "properties": {
+        "id": "c3ab2a46-52de-4dff-ab07-18f67f7be87c",
+        "name": "BitNouns Sticker - Blitar #08",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260519-043838-59993c12-IMG_0714.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Srengat, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260519-043838-59993c12-IMG_0714.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-19T11:37:26.000Z",
+        "updatedAt": "2026-05-19T11:37:26.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21927778,
+          -8.13108056
+        ]
+      },
+      "properties": {
+        "id": "e14335d7-8dfa-4d68-aba8-6b378d6f0de9",
+        "name": "BitNouns Sticker - Blitar #09",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-093508-fafa30e7-IMG_0707.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-093508-fafa30e7-IMG_0707.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T16:15:55.000Z",
+        "updatedAt": "2026-05-18T16:15:55.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21885,
+          -8.13179167
+        ]
+      },
+      "properties": {
+        "id": "d955d3ff-0cee-40a8-a198-323965503dcc",
+        "name": "BitNouns Sticker - Blitar #10",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-093508-ac8f62ca-IMG_0704.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-093508-ac8f62ca-IMG_0704.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T16:11:47.000Z",
+        "updatedAt": "2026-05-18T16:11:47.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21923056,
+          -8.13181111
+        ]
+      },
+      "properties": {
+        "id": "fdc4c099-7e03-4bb0-a6fa-40717be6797a",
+        "name": "BitNouns Sticker - Blitar #11",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-093508-0897016e-IMG_0706.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-093508-0897016e-IMG_0706.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T16:13:31.000Z",
+        "updatedAt": "2026-05-18T16:13:31.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21846667,
+          -8.13145
+        ]
+      },
+      "properties": {
+        "id": "440b7ba5-0e77-4055-ab75-095185e04418",
+        "name": "BitNouns Sticker - Blitar #12",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-090150-d0092c38-IMG_0699.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-090150-d0092c38-IMG_0699.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T15:48:20.000Z",
+        "updatedAt": "2026-05-18T15:48:20.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21821667,
+          -8.13106389
+        ]
+      },
+      "properties": {
+        "id": "9abe7bb5-bb5c-4218-a559-7cdd19c3f7bd",
+        "name": "BitNouns Sticker - Blitar #13",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-090150-cf5e2a99-IMG_0701.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-090150-cf5e2a99-IMG_0701.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T15:57:18.000Z",
+        "updatedAt": "2026-05-18T15:57:18.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21843056,
+          -8.13128333
+        ]
+      },
+      "properties": {
+        "id": "1c28a4aa-caae-449b-ad47-fff0203ff408",
+        "name": "BitNouns Sticker - Blitar #14",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-090150-b46b58af-IMG_0703.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-090150-b46b58af-IMG_0703.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T16:00:01.000Z",
+        "updatedAt": "2026-05-18T16:00:01.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21926111,
+          -8.13109722
+        ]
+      },
+      "properties": {
+        "id": "fc264f82-1e54-4277-a9c1-229749d385bc",
+        "name": "BitNouns Sticker - Blitar #15",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-090150-ad0edd64-IMG_0700.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-090150-ad0edd64-IMG_0700.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T15:52:19.000Z",
+        "updatedAt": "2026-05-18T15:52:19.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21808611,
+          -8.13056667
+        ]
+      },
+      "properties": {
+        "id": "8277995e-9906-4b71-a3ec-c9acefb537ea",
+        "name": "BitNouns Sticker - Blitar #16",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-084608-b167e557-IMG_0697.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-084608-b167e557-IMG_0697.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T15:43:48.000Z",
+        "updatedAt": "2026-05-18T15:43:48.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21816389,
+          -8.13099722
+        ]
+      },
+      "properties": {
+        "id": "6a436c25-ad3c-4b9a-a9cb-a8147b14df48",
+        "name": "BitNouns Sticker - Blitar #17",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-084550-8ca64e93-IMG_0695.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-084550-8ca64e93-IMG_0695.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T15:38:14.000Z",
+        "updatedAt": "2026-05-18T15:38:14.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21829167,
+          -8.13122222
+        ]
+      },
+      "properties": {
+        "id": "14c1d177-47be-44b0-afdc-69686759ca20",
+        "name": "BitNouns Sticker - Blitar #18",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-083654-b3d6dbbb-IMG_0693.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-083654-b3d6dbbb-IMG_0693.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T15:34:33.000Z",
+        "updatedAt": "2026-05-18T15:34:33.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21826944,
+          -8.13146944
+        ]
+      },
+      "properties": {
+        "id": "1715d7df-599f-43d9-a5d4-071cd0edd941",
+        "name": "BitNouns Sticker - Blitar #19",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-083150-43e3545b-IMG_0692.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-083150-43e3545b-IMG_0692.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T15:29:31.000Z",
+        "updatedAt": "2026-05-18T15:29:31.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21872778,
+          -8.13169444
+        ]
+      },
+      "properties": {
+        "id": "13cd1521-05dc-48a7-ae82-66ac3e5b44c5",
+        "name": "BitNouns Sticker - Blitar #20",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-083130-8b9a3133-IMG_0689.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-083130-8b9a3133-IMG_0689.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T15:24:25.000Z",
+        "updatedAt": "2026-05-18T15:24:25.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21981944,
+          -8.12332222
+        ]
+      },
+      "properties": {
+        "id": "2be92b51-81d9-4942-a84a-4710096689d8",
+        "name": "BitNouns Sticker - Blitar #21",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-081405-a7a0c316-IMG_0688.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-081405-a7a0c316-IMG_0688.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T15:11:21.000Z",
+        "updatedAt": "2026-05-18T15:11:21.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.21955833,
+          -8.123325
+        ]
+      },
+      "properties": {
+        "id": "f8a9ba5b-3728-4aae-a6d8-9c585b4e2e0b",
+        "name": "BitNouns Sticker - Blitar #22",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-071712-d0f49d11-IMG_0685.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-071712-d0f49d11-IMG_0685.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T14:13:49.000Z",
+        "updatedAt": "2026-05-18T14:13:49.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.22103889,
+          -8.1243
+        ]
+      },
+      "properties": {
+        "id": "9bb20121-1b1b-47c1-aee6-e633388ac53a",
+        "name": "BitNouns Sticker - Blitar #23",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-071645-6c7fed8a-IMG_0684.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-071645-6c7fed8a-IMG_0684.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T14:10:27.000Z",
+        "updatedAt": "2026-05-18T14:10:27.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.22148056,
+          -8.14221667
+        ]
+      },
+      "properties": {
+        "id": "c47aeada-497a-43ae-a3eb-3e566fdbf854",
+        "name": "BitNouns Sticker - Blitar #24",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-053945-a4bec707-IMG_0682.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-053945-a4bec707-IMG_0682.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T12:35:03.000Z",
+        "updatedAt": "2026-05-18T12:35:03.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.22152778,
+          -8.14243333
+        ]
+      },
+      "properties": {
+        "id": "ec4f1b26-1acc-48d4-a2c3-67fa016deb20",
+        "name": "BitNouns Sticker - Blitar #25",
+        "description": "BitNouns Indonesia Sticker Campaign placement in Blitar, Indonesia. Verified GPS proof photograph (20260518-040314-19ba1fee-IMG_0678.jpg) funded by BitNouns DAO Proposal #20 and captured with Apple iPhone XS Max.",
+        "category": "Stickers",
+        "community": [
+          "bitnouns"
+        ],
+        "address": "Kanigoro, Blitar, Jawa Timur, Indonesia",
+        "photoUrl": "https://xctx.io/mapsv2/img/20260518-040314-19ba1fee-IMG_0678.jpg",
+        "localPhotoPath": null,
+        "contactLink": "https://nouns.build/dao/ethereum/0xd7cb208297f661867a43c08afe5980ee88dfc678/vote/20",
+        "createdAt": "2026-05-18T10:50:54.000Z",
+        "updatedAt": "2026-05-18T10:50:54.000Z"
       }
     }
   ]

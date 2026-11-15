@@ -28,6 +28,13 @@ export const CATEGORY_COLORS: Record<string, { bg: string; text: string; border:
     border: 'border-emerald-400',
     dot: 'bg-emerald-600',
     hex: '#10B981'
+  },
+  Stickers: {
+    bg: 'bg-orange-50',
+    text: 'text-orange-700',
+    border: 'border-orange-400',
+    dot: 'bg-orange-500',
+    hex: '#E95D18'
   }
 };
 
@@ -72,6 +79,16 @@ export const COMMUNITY_INFO: Record<string, { label: string; badge: string; colo
     label: 'Claude Code',
     badge: 'bg-orange-600 text-white',
     color: '#EA580C'
+  },
+  bitnouns: {
+    label: 'BitNouns',
+    badge: 'bg-[#E95D18] text-white font-bold',
+    color: '#E95D18'
+  },
+  BitNouns: {
+    label: 'BitNouns',
+    badge: 'bg-[#E95D18] text-white font-bold',
+    color: '#E95D18'
   }
 };
 

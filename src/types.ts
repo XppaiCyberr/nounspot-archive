@@ -2,7 +2,7 @@ export interface Spot {
   id: string;
   name: string;
   description: string;
-  category: 'Places' | 'Things' | 'People' | 'Event' | string;
+  category: 'Places' | 'Things' | 'People' | 'Event' | 'Stickers' | string;
   address: string;
   locationLat: number;
   locationLng: number;

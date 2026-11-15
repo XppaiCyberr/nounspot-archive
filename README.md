@@ -23,12 +23,12 @@ This archive cleans, verifies, and permanently preserves the genuine Nouns ecosy
 
 ## Preservation Scope
 
-- Verified Spots: 61 authentic Nouns DAO and Gnars community locations
+- Verified Spots: 163 authentic Nounish locations (61 original Nounspot spots + 102 BitNouns Indonesia sticker campaign placements)
 - Curated Data: All 69 third-party Cursor workshop placeholder entries were identified and purged
 - Geographic Verification: 100% of preserved locations contain verified latitude and longitude coordinates
-- Media Preservation: High-resolution photos are downloaded and stored locally in preserved_data/photos/
-- Categories Preserved: Things (33), Places (19), People (9)
-- Communities Covered: Nouns DAO and Gnars Sub-DAO across 20+ countries
+- Media Preservation: High-resolution photos are archived locally and synced with proof photo manifests
+- Categories Preserved: Stickers (102), Things (33), Places (19), People (9)
+- Communities Covered: Nouns DAO, Gnars Sub-DAO, and BitNouns DAO across 20+ countries
 
 ## Preserved Formats
 

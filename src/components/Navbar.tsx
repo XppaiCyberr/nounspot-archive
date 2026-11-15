@@ -211,6 +211,20 @@ export const Navbar: React.FC<NavbarProps> = ({
             <span>People ({categoryCounts['People'] || 0})</span>
           </button>
 
+          {Boolean(categoryCounts['Stickers']) && (
+            <button
+              onClick={() => onFilterChange({ category: 'Stickers' })}
+              className={`px-2 py-0.5 rounded text-[11px] font-bold transition flex items-center gap-1 ${
+                filters.category === 'Stickers'
+                  ? 'bg-[#E95D18] text-white shadow-sm'
+                  : 'bg-white border border-orange-200 text-orange-700 hover:bg-orange-50'
+              }`}
+            >
+              <span className="w-1.5 h-1.5 rounded-full bg-[#E95D18]"></span>
+              <span>Stickers ({categoryCounts['Stickers'] || 0})</span>
+            </button>
+          )}
+
           {Boolean(categoryCounts['Event']) && (
             <button
               onClick={() => onFilterChange({ category: 'Event' })}
@@ -240,6 +254,9 @@ export const Navbar: React.FC<NavbarProps> = ({
               <option value="nouns">Nouns DAO ({communityCounts['nouns'] || 0})</option>
               {communityCounts['gnars'] ? (
                 <option value="gnars">Gnars Sub-DAO ({communityCounts['gnars'] || 0})</option>
+              ) : null}
+              {communityCounts['bitnouns'] ? (
+                <option value="bitnouns">BitNouns DAO ({communityCounts['bitnouns'] || 0})</option>
               ) : null}
             </select>
           </div>
